@@ -1,0 +1,8 @@
+git
+github
+jenkins
+maven
+terraform
+ansible
+dockers
+kubernates
